@@ -1,0 +1,13 @@
+users:
+- major: 전체 학과
+  name: 시스템 관리자
+  number: m-admin
+  password: admin
+- major: com
+  name: jun
+  number: '20212998'
+  password: '1234'
+- major: root
+  name: root
+  number: '1234'
+  password: '5678'
